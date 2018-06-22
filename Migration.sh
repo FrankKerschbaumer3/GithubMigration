@@ -24,4 +24,4 @@ for name in ${names[@]}; do
 done
 
 echo "Sucessfully Completed migration. Deleting Temp directory"
-rm -rf "~/gitmigration"
+rm -rf "gitmigration/"
