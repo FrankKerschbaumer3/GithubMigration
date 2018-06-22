@@ -1,6 +1,7 @@
 GitHub Migration Script
 =======================
 This script allows the migration of as many repos as needed in an automated fashion.
+Useful for when migrating from an Enterprise GitHub server to GitHub.com.
 
 Step 1
 ===
