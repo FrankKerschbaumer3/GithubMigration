@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "This will move GitHub Enterprise repos to GitHub.com. Creating a tmp directory to pull repos"
+echo "This will move GitHub repos to other repos. Creating a tmp directory to pull repos"
 #Insert names of the repos that you will be moving, i.e names=(test test2 test3)
 names=()
 
